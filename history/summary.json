@@ -20,5 +20,23 @@
       "2024-02-18": 18,
       "2024-01-26": 29
     }
+  },
+  {
+    "name": "CCC Feeder",
+    "url": "$SECRET_URL_FEEDS",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ccc-feeder",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2355,
+    "timeDay": 2355,
+    "timeWeek": 2355,
+    "timeMonth": 2355,
+    "timeYear": 2355,
+    "dailyMinutesDown": {}
   }
 ]
