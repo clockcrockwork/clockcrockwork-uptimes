@@ -4,18 +4,19 @@
     "url": "https://clockcrock.click",
     "icon": "https://icons.duckduckgo.com/ip3/clockcrock.click.ico",
     "slug": "clockcrock-click",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 589,
-    "timeDay": 636,
-    "timeWeek": 629,
-    "timeMonth": 620,
-    "timeYear": 589,
+    "time": 585,
+    "timeDay": 400,
+    "timeWeek": 571,
+    "timeMonth": 606,
+    "timeYear": 585,
     "dailyMinutesDown": {
+      "2024-04-30": 0,
       "2024-03-08": 170,
       "2024-02-18": 18,
       "2024-01-26": 29
@@ -26,17 +27,19 @@
     "url": "$SECRET_URL_FEEDS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ccc-feeder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2601,
-    "timeDay": 2604,
-    "timeWeek": 2637,
-    "timeMonth": 2601,
-    "timeYear": 2601,
-    "dailyMinutesDown": {}
+    "time": 2521,
+    "timeDay": 1361,
+    "timeWeek": 2322,
+    "timeMonth": 2521,
+    "timeYear": 2521,
+    "dailyMinutesDown": {
+      "2024-04-30": 0
+    }
   }
 ]
