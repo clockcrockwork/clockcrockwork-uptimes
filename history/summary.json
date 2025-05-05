@@ -4,17 +4,17 @@
     "url": "https://clockcrock.click",
     "icon": "https://icons.duckduckgo.com/ip3/clockcrock.click.ico",
     "slug": "clockcrock-click",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 6965,
-    "timeWeek": 3820,
-    "timeMonth": 3820,
-    "timeYear": 746,
+    "time": 695,
+    "timeDay": 5360,
+    "timeWeek": 3352,
+    "timeMonth": 3352,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-05-04": 16
     }
@@ -34,7 +34,7 @@
     "timeDay": 434,
     "timeWeek": 341,
     "timeMonth": 341,
-    "timeYear": 312,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2024-05-29": 56
     }
