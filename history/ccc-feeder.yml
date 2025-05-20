@@ -1,7 +1,7 @@
 url: $SECRET_URL_FEEDS
-status: up
-code: 200
-responseTime: 296
-lastUpdated: 2025-05-19T23:07:01.814Z
+status: down
+code: 502
+responseTime: 10334
+lastUpdated: 2025-05-20T20:20:30.367Z
 startTime: 2024-04-01T01:22:20.371Z
 generator: Upptime <https://github.com/upptime/upptime>
