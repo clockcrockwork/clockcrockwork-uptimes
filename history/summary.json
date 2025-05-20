@@ -27,16 +27,17 @@
     "slug": "ccc-feeder",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 545,
+    "time": 544,
     "timeDay": 296,
     "timeWeek": 296,
     "timeMonth": 292,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2025-05-20": 0,
       "2024-05-29": 56
     }
   }
